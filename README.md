@@ -34,3 +34,5 @@ Ya probado el programa anterior se escribirán programas para demostrar el funci
         - If-elif-else
         - Estructuras anidadas
         - Iteraciones
+    - funciones
+
