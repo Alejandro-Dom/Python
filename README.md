@@ -35,4 +35,5 @@ Ya probado el programa anterior se escribirán programas para demostrar el funci
         - Estructuras anidadas
         - Iteraciones
     - funciones
+    - bibliotecas
 
