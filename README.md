@@ -25,3 +25,12 @@ arr = np.array([100, 2.7, 8.3333, 4, 0.5])
 print(arr) 
 print(type(arr)
 ~~~
+
+Ya probado el programa anterior se escribirán programas para demostrar el funcionamiento de
+    - variables
+    - operadores
+    - estructuras de control
+        - If-else
+        - If-elif-else
+        - Estructuras anidadas
+        - Iteraciones
